@@ -1,4 +1,4 @@
-# <img width="320" height="320" alt="541304D1-03B5-4244-87D4-0A5DCB37BD21" src="https://github.com/user-attachments/assets/1510fa21-0212-4eae-82cd-0e85e786e29f" /> Portfolio Website
+# <img width="32" height="32" alt="541304D1-03B5-4244-87D4-0A5DCB37BD21" src="https://github.com/user-attachments/assets/1510fa21-0212-4eae-82cd-0e85e786e29f" /> Portfolio Website
 
 This is my personalized portfolio website built using **React**, **TailwindCSS**, **Vite**, and the help of Mr. Pedro Machado on youtube.
 
